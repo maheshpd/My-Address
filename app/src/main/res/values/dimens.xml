@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="xsmall_text">10sp</dimen>
+    <dimen name="small_text">12sp</dimen>
+    <dimen name="medium_text">14sp</dimen>
+    <dimen name="large_text">16sp</dimen>
+    <dimen name="header_text">18sp</dimen>
+    <dimen name="nav_header_text">20sp</dimen>
+
+    <dimen name="items_inbetween">8dp</dimen>
+    <dimen name="item_padding">4dp</dimen>
+</resources>
